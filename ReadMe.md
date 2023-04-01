@@ -15,16 +15,13 @@ i'm currently working on Space Station website.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aliized&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
+[![](https://visitcount.itsvg.in/api?id=aliized&icon=6&color=6)](https://visitcount.itsvg.in)
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aliized&limit=5&theme=discord&combine_all_yearly_contributions=true)
-
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=aliized&icon=6&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
